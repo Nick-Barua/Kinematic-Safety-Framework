@@ -1,0 +1,6 @@
+numpy>=1.24.0
+torch>=2.0.0      # For YOLOv7 and GRU models
+opencv-python     # For NIR/LWIR image processing
+scipy             # For Kalman filtering and SSA math
+shap              # For Explainable AI (XAI) compliance
+matplotlib        # For kinematic plotting
