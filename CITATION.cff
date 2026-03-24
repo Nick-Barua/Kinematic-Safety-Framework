@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this framework in your research, please cite it as follows."
+authors:
+- family-names: "Barua"
+  given-names: "Nick"
+  orcid: "https://orcid.org/0000-0003-4641-0112"
+title: "Kinematic Safety Framework: Bridging Galactic Tomography and Autonomous Safety"
+version: 1.0.0
+date-released: 2026-03-24
+url: "https://github.com/Nick-Barua/Kinematic-Safety-Framework"
